@@ -1,3 +1,3 @@
-unfinished -- working backup only
+voxel engine test using opengl for graphics, sdl for windowing and input, and fastnoise for perlin and simplex noise
 
-so far: 3d camera, unfinished terrain generation, no world interaction yet
+working on a rewrite in rust with ash crate (vulkan) with ray tracing, but uni work is hindering progress
